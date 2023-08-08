@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    background-image: url(pexels-pixabay-531880.jpg);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.p1 > p {
+   display: inline-block;
+   width: 350px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+   background-color: rgb(23, 132, 151);
+   justify-content: space-evenly;
+  
+   
+}

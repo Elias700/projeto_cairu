@@ -1,0 +1,108 @@
+/* estilos do botão */
+button{
+    color: black;
+    background-color: rgb(237, 177, 99);
+    right: 40px;
+    border: 2px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px 10px;
+    padding-top: -5px;
+    margin-left: 5px;
+    }
+    
+    /* estilos do titulo no topo da pagina */
+    h1{
+    color: rgb(4, 4, 4);
+    font-size: 10px;
+    }
+    
+    
+    /* estilos do Titulo : "construa o seu sonho" */
+    h2{
+    margin-top: 200px;
+    margin-left: 5px;
+    font-size: 35px;
+    }
+    
+    /* Frase abaixo do titulo */
+    p{
+    margin-top: -10px;
+    margin-left: 8px;
+    
+    /* Corpo da pagina */
+    }
+    
+    body{
+        background-color: rgb(43, 105, 176);
+        position: relative;
+        color: rgb(111, 26, 26);
+    }
+    
+    /* Estilos dos icones no canto superiir da tela */
+    div{
+        position: absolute;
+        top: 0px;
+        right: 10px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        background-color: white;
+        border: 0
+    }
+    
+    
+    head{
+        margin-left: 2px;
+    
+    }
+    
+    h1{
+    margin: 2px;
+    margin-left: 1pc;
+    
+    
+    /* Estilos das imagens */
+    
+    }
+    
+     
+     ul{
+    
+    display: flex;
+    padding: 0px;
+    margiN: 0px;
+    
+    }
+    
+    
+    li {
+        display: inline-block;
+        margin:  10px 
+      }
+    
+     /* Estilos do Menu  */
+     li a{
+        display: block;
+        text-decoration: none;
+        color: #ae3434;
+        padding: 0px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: center;
+        justify-content: center;
+       height: 10vh;
+       list-style-type: none;
+     }
+    
+    
+     body{
+        background-image: url("responsabilidade-da-construtora\ \(1\).jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+      }
+      
+      ul li:hover {
+        font-size: 25px;
+        
+      }
